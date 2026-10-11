@@ -1,6 +1,6 @@
 # Hi, I'm Alaina Liu 👋
 
-I'm a high school student interested in **data science, applied mathematics, and the intersection of data and human behavior**. I like using quantitative methods to explore questions about how people communicate and how society changes.
+I'm a high school student interested in **data science and its applications to economics and human behavior**. I like using quantitative methods to explore questions about how people communicate and how society changes.
 
 ## Featured research
 
@@ -21,7 +21,7 @@ Python · pandas · scikit-learn · Natural Language Processing · Machine Learn
 
 ## Academic interests
 
-Data Science · Applied Mathematics · Economics · Human Behavior
+Data Science · Economics · Human Behavior · Social Data Analysis
 
 ---
 
