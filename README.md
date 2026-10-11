@@ -30,6 +30,8 @@ The work connects NLP with questions about online communication, social behavior
 
 The prepared dataset contains **333,447 training, 41,681 validation, and 41,681 test** examples. The six emotion classes are imbalanced: **joy and sadness make up about 62.9%**, while **surprise represents only 3.6%**. This made macro F1 an important evaluation metric in addition to accuracy.
 
+![Class distribution](figures/class_distribution.svg)
+
 The notebook includes data exploration, class distributions, preprocessing, model evaluation and error analysis.
 
 ## Modeling pipeline
@@ -49,6 +51,8 @@ The notebook includes data exploration, class distributions, preprocessing, mode
 | **Logistic Regression** | **0.9162** | **0.8844** | **0.9186** |
 | Linear SVM | 0.9149 | 0.8774 | 0.9167 |
 | Naive Bayes | 0.8827 | 0.8100 | 0.8763 |
+
+![Model comparison](figures/model_comparison.svg)
 
 Logistic Regression produced the strongest validation macro F1.
 
